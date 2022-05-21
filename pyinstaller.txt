@@ -1,0 +1,1 @@
+pyinstaller --onefile --windowed --icon=it.ico --paths "C:\Users\Me\Desktop\python\pand_diagnostics\Lib\site-packages" main.py
